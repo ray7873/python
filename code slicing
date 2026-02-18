@@ -1,0 +1,4 @@
+course = "communication network"
+print(len(course))
+print(course[0:5])
+print(course[-1])
