@@ -2,3 +2,9 @@ name = "mithun"
 dept = "cit"
 semester = "first"
 print(f"{name} {dept} {semester} ")
+
+
+first_name = "mithun"
+last_name = "Roy"
+full = f"{first_name} {last_name}"
+print(full)
