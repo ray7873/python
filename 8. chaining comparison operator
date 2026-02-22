@@ -1,0 +1,7 @@
+# age should be between 18 to 30
+
+x = int(input("Enter your age : "))
+if 18 <= x <= 30:
+    print("You are Eligible")
+else:
+    print("Not Eligible")
