@@ -1,0 +1,8 @@
+successfull = False
+for number in range(1,  3):
+    print("Attempt", number)
+    if successfull:
+        print("Passed")
+        break
+else:
+    print("Sorry, failed")
